@@ -4,7 +4,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer components {
+@layer components { 
     // Navbar
     .nav-list {
       @apply text-black md:text-white py-2 md:mx-5 mx-8 text-center block md:hover:scale-105 font-semibold opacity-80 md:hover:underline
@@ -65,7 +65,7 @@
     }
     //galery
     .image-gallery{
-      @apply block object-cover object-center w-full h-full lg:transition-all lg:hover:scale-125 lg:blur-[2px] lg:hover:blur-none;
+      @apply block object-cover object-center w-full h-full lg:transition-all lg:hover:scale-125;
     }
     .image-card-gallery{
       @apply overflow-hidden rounded-lg;
