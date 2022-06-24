@@ -3,7 +3,6 @@ node_modules
 /mdb
 
 # production
-/dist
 
 # misc
 .DS_Store
