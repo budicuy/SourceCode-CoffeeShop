@@ -2,7 +2,7 @@
 ___
 
 >Di butuhkan NodeJS versi 15.x.x.x Keatas
-
+>- [Simple, fast routing engine](https://laravel.com/docs/routing).
 ### Instalasi
 ```
 npm install
