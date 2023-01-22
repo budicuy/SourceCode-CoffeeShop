@@ -4,7 +4,7 @@ ___
 > <br>
 > Di butuhkan NodeJS versi 15.x.x.x Keatas
 > <br>
-> <a href="https://budicuy-coffeshop.netlify.app/" target="_blank">Klik Untuk Demo <a/>
+> <a href="https://budicuy-coffeshop.netlify.app/" target="blank">Klik Untuk Demo <a/>
 > <br>
 > <br>
   
