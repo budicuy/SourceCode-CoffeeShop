@@ -5,16 +5,6 @@ ___
 npm install
 ```
 
-> **Pro Essential installation**
-> ```
-> npm install git+https://oauth2:ACCESS_TOKEN@git.mdbootstrap.com/mdb/standard/mdb-ui-kit-pro-essential
-> ```
-
-> **Pro Advanced installation**
-> ```
-> npm install git+https://oauth2:ACCESS_TOKEN@git.mdbootstrap.com/mdb/standard/mdb-ui-kit-pro-advanced
-> ```
-
 ### Dev Server
 ```
 npm start
