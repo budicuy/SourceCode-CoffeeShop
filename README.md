@@ -3,7 +3,7 @@ ___
 
 > 
 >Di butuhkan NodeJS versi 15.x.x.x Keatas
->- [Klik Untuk Demo]([https://laravel.com/docs/routing](https://budicuy-coffeshop.netlify.app/)).
+>- [Klik Untuk Demo](https://budicuy-coffeshop.netlify.app/).
 >
 
 
