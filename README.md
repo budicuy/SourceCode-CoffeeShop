@@ -2,10 +2,9 @@
 ___
 
 > 
->Di butuhkan NodeJS versi 15.x.x.x Keatas
->- [Klik Untuk Demo](https://budicuy-coffeshop.netlify.app/).
-> <a href="https://budicuy-coffeshop.netlify.app/">Klik Untuk Demo <a/>
-
+> Di butuhkan NodeJS versi 15.x.x.x Keatas
+> <a href="https://budicuy-coffeshop.netlify.app/" target="_blank">Klik Untuk Demo <a/>
+> 
 
 ### Instalasi
 ```
