@@ -8,12 +8,12 @@ ___
 npm install
 ```
 
-### Dev Server
+### Develop Local Server
 ```
 npm start
 ```
 
-### Build
+### Build For Production
 ```
 npm run build
 ```
